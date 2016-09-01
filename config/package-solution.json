@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "spfx-sample-additionalbuildtask-client-side-solution",
+    "id": "083dcaca-387e-43b3-84a3-dd6343bf8bf6",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "spfx-sample-additionalbuildtask.spapp"
+  }
+}
